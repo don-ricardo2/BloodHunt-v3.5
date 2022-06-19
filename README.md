@@ -1,6 +1,7 @@
 # BloodHunt-v3 
 
-updated 19.06.2022
+Updated - 19.06.2022
+Status - UNDETECTED
 
 ## Discord Support 
 
