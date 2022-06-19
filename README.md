@@ -1,4 +1,4 @@
-# BloodHunt-v3 by Ricardo2
+# BloodHunt-v3 | edit Ricardo2
 
 - Updated 🟢 19.06.2022
 - Status 🟢 UNDETECTED
