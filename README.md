@@ -5,8 +5,8 @@
 
 ## Discord Support 
 
-- Link: https://discord.com/invite/ad3nmFUMjr
-- Link: www.elita-discord.tk/
+- Discord Support: https://discord.com/invite/ad3nmFUMjr
+- Source: www.elita-discord.tk/
 - Tag: ricardo2#7124
 
 ## Options
