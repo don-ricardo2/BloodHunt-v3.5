@@ -7,7 +7,7 @@
 
 - Discord Support: https://discord.com/invite/ad3nmFUMjr
 - Source: www.elita-discord.tk/
-- Tag: ricardo2#7124
+- Tag: `ricardo2#7124`
 
 ## Options
 ```
