@@ -6,7 +6,8 @@
 ## Discord Support 
 
 - Discord Support: https://discord.com/invite/ad3nmFUMjr
-- Source: www.elita-discord.tk/
+- Source: www.elita-discord.tk/ (write to me pw discord)
+- Only .exe cheat without loader (write to me pw discord)
 - Tag: `ricardo2#7124`
 
 ## Options
