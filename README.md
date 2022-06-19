@@ -1,4 +1,4 @@
-# BloodHunt-v3 | edit Ricardo2
+# BloodHunt-v3.5 | edit Ricardo2
 
 - Updated 🟢 19.06.2022
 - Status 🟢 UNDETECTED
@@ -28,7 +28,7 @@
 ## Instructions
 ```
 1.Rung game (steam or epic)
-2.Run BloodHunt_v3.exe
+2.Run BloodHunt_v3.5.exe or loader Elita.exe ( for key write to staff on discord )
 3.Enjoy 
 ```
 
