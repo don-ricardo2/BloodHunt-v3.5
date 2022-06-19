@@ -44,7 +44,7 @@
 - Link: https://youtu.be/h62tK8kKRBI
 
 ## Photos
-
+New esp loot
 ![obraz](https://user-images.githubusercontent.com/39122430/174501617-5341cb2d-cfa7-42db-a07a-4ab2a35b88c4.png)
-
+Old 
 ![obraz](https://user-images.githubusercontent.com/39122430/174461294-1446013b-da9b-4398-9257-0661fb1045fc.png)
