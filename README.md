@@ -44,6 +44,9 @@
 - Link: https://youtu.be/h62tK8kKRBI
 
 ## Photos
+
+![obraz](https://user-images.githubusercontent.com/39122430/174501617-5341cb2d-cfa7-42db-a07a-4ab2a35b88c4.png)
+
 ![obraz](https://user-images.githubusercontent.com/39122430/174498754-eefac94d-ab5e-494f-8ab5-67a6beb90e01.png)
 
 ![obraz](https://user-images.githubusercontent.com/39122430/174461294-1446013b-da9b-4398-9257-0661fb1045fc.png)
