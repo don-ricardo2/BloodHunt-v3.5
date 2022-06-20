@@ -45,6 +45,6 @@
 
 ## Photos
 New esp loot
-![obraz](https://user-images.githubusercontent.com/39122430/174501617-5341cb2d-cfa7-42db-a07a-4ab2a35b88c4.png)
+![obraz](https://user-images.githubusercontent.com/39122430/174577165-1f680b88-6ef7-4e99-a0f5-8c2ff0f08a5b.png)
 Old 
 ![obraz](https://user-images.githubusercontent.com/39122430/174461294-1446013b-da9b-4398-9257-0661fb1045fc.png)
