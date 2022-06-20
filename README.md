@@ -41,7 +41,7 @@
 
 ## Video
 
-- Link: https://youtu.be/h62tK8kKRBI
+- Link: [https://youtu.be/h62tK8kKRBI](https://www.youtube.com/watch?v=v28u2DPoY60)
 
 ## Photos
 New esp loot
